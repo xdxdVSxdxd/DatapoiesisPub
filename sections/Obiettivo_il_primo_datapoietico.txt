@@ -1,0 +1,63 @@
+   > **OBIETTIVO** è il primo oggetto d'arte Datapoietico. 
+
+È un sistema di illuminazione per lo spazio pubblico connesso ai dati prodotti da organizzazioni internazionali circa il numero di persone che vivono in condizioni di povertà estrema (meno di 1.90$ al giorno per sopravvivere).
+
+L’installazione è composta da **19 lastre di plexiglass** trasparente rette da una struttura di metallo e bulloni. Su ogni lastra è incisa la sezione della sagoma tridimensionale di un essere umano sdraiato a dormire su una panchina: disposte l’una dietro l’altra, in trasparenza emerge per sovrapposizione la sagoma intera dell’uomo. 
+
+![OBIETTIVO: il primo oggetto datapoietico](images/CAP_2/1_Obiettivo.jpg "OBIETTIVO: il primo oggetto datapoietico")
+
+Alla base di ogni lastra, una striscia di led (neo-pixel) la illumina di rosso: la luce viene catturata dalle incisioni ed emessa verso l’esterno, animando di rosso le incisioni quasi come un laser e lasciando il corpo stilizzato sospeso in trasparenza, quasi a levitare sulla panchina. 
+
+![OBIETTIVO: il primo oggetto datapoietico, making of presso Spazio Chirale, Roma](images/CAP_2/Obiettivo_chirale.jpg "OBIETTIVO: il primo oggetto datapoietico, making of presso Spazio Chirale, Roma")
+
+![OBIETETIVO: dettaglio verticale. In evicenza, le lastre e l'illuminazione di neopixel](images/CAP_2/Obiettivo_dettasglio_verticale.jpg "OBIETETIVO: dettaglio verticale. In evicenza, le lastre e l'illuminazione di neopixel")
+
+#Il Concept
+
+   > La luce rossa di **OBIETTIVO** è un allarme.
+
+Non si spegnerà mai finché il numero di persone in condizioni di povertà estrema non scenderà al di sotto di una certa soglia (500 mila persone). Solo allora la sua luce cesserà, lasciandoci riposare. 
+
+   > **OBIETTIVO** è un oggetto totemico. 
+
+E' progettato per portare nello spazio pubblico una sensibilità aumentata riguardo la povertà, uno dei problemi complessi del nostro mondo globalizzato, e per ospitare neo-rituali urbani di consapevolezza, conoscenza, cooperazione e azione condivisa, sostenuti dalla tecnologia e dalla scienza.
+
+In un momento in cui, specie dai centri storici, si tende ad espungere l'immagine della povertà lasciandola ai margini (delle città come delle geografie politiche), OBIETTIVO riporta la sagoma di un senza dimora al centro del nostro sguardo e della nostra percezione, chiedendoci di ricordare e di attivarci. 
+
+   > Per "sentire" la povertà e creare empatia.
+
+![OBIETTIVO, Data-ritual a cura di Salvatore Iaconesi. Evento del tour di disseminazione: Datapoiesis nelle città – Bologna, Ex Chiesa San Pietro Martire di Via Orfeo, 2020](images/CAP_2/OBIETTIVO_Bologna_live_data.jpg "OBIETTIVO, Data-ritual a cura di Salvatore Iaconesi. Evento del tour di disseminazione: Datapoiesis nelle città – Bologna, Ex Chiesa San Pietro Martire di Via Orfeo, 2020")
+
+![OBIETTIVO, vista laterale. Evento del tour di disseminazione: Datapoiesis nelle città – Bologna, Ex Chiesa San Pietro MArtire di Via Orfeto, 2020"](images/CAP_2/OBIETTIVO_Bologna_tavolo.jpg "OBIETTIVO, vista laterale. Evento del tour di disseminazione: Datapoiesis nelle città – Bologna, Ex Chiesa San Pietro MArtire di Via Orfeto, 2020")
+
+#La visualizzazione e i dati
+
+OBIETTIVO usa **tre modalità visualizzare i dati** attraverso la luce:
+
+1. La **frequenza di oscillazione** indica la quantità di persone interessata dal fenomeno della povertà estrema: più è veloce, più alto è il numero; più è lenta, più scende il numero;
+2. La **direzione della luce** ci informa se le persone entrano o escono dalla povertà estrema: se la luce oscilla verso il lato anteriore della scultura, è positivo: vuol dire che le persone stanno uscendo dalla condizione di povertà; se va verso il lato posteriore, vuol dire che le persone ci stanno rientrando. 
+3. Il **segnale on/off**: la luce di OBIETTIVO si spegnerà quando resteranno meno di 500mila persone nel mondo in condizioni di povertà estrema.
+
+OBIETTIVO raccoglie i suoi dati dalle seguenti fonti
+
+* United Nations e UNDP: yearly report e UN Statistics Department (UNSD) || <https://unstats.un.org/unsd/demographic-social/sconcerns/income/>
+* World Bank: Poverty and Equity Data || <http://povertydata.worldbank.org/poverty/home/>
+* OECD: Poverty and Inequality data || <https://data.oecd.org/inequality/income-inequality.htm#indicator-chart>
+* World Poverty Clock: <https://worldpoverty.io/>
+
+![OBIETTIVO: la visualizzazione dei dati](images/CAP_2/3_Legenda_Obiettivo.png "OBIETTIVO: la visualizzazione dei dati")
+
+#Making Of: la creazione di OBIETTIVO presso spazio Chirale
+
+OBIETTIVO è stata realizzata dagli artigiano 4.0 di Chirale a Roma, in particolare: Leonardo Zaccone, Stefano Varano e Stella Passerini.
+
+Chirale ha realizzato un bellissimo video di making of che ne riprende la costruzione, riassumendone il concept, consentendoci di entrare dentro l'opera a di vederla in azione.
+
+Ringraziamo il team per questo regalo al progetto.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tde8Y0N1HYA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+

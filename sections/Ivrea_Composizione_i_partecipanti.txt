@@ -1,0 +1,93 @@
+La Fall School di Datapoiesis si è svolta **dal 25 al 29 Novembre 2019, presso le Fabbriche ex Olivetti**, coinvolgendo un gruppo internazionale di ricercatori, artisti, designer, professionisti e studenti per immaginare e progettare il modello, la comunicazione, l’ecosistema di oggetti e servizi della prima impresa datapoietica.
+
+   > La formula scelta, come per il primo workshop, è stata quella dell’**evento gratuito** con spese di viaggio, vitto e alloggio a carico dei partecipanti. 
+
+Per favorire l’accessibilità il gruppo di lavoro ha creato convenzioni con ostelli, albergatori e ristoratori, prendendo inoltre un accordo con la mensa recentemente ristrutturata e aperta nelle che ha consentito un momento conviviale rituale intorno al cibo capace di coinvolgere tutti i partecipanti.
+
+   > In due mesi di campagna la call ha registrato **45 iscritti per i 25 posti** disponibili. 
+
+In fase di selezione il numero è salito a 30 per l’entusiasmo e la qualità delle risposte. Tutti i 30 iscritti selezionati hanno partecipato, due dei quali per motivi personali hanno sfortunatamente dovuto lasciare il workshop dal secondo giorno.
+
+   > La Fall School ha ricevuto **iscrizioni da tutta Italia, dall’Europa e dagli Stati Uniti** (con Portland e Minneapolis). 
+
+La massima concentrazione si rileva a Torino, con 10 iscritti (collegata ad una specifica campagna con l’obiettivo di riservare al Piemonte e alla città di Ivrea 15 dei 25 posti a disposizione: una singola iscrizione da Ivrea, invece, dove la gran parte di studenti e giovani professionisti vive fuori città). La seconda città è Roma con 4 iscritti. Le altre città europee coinvolte sono Coimbra, Berlino, Eindhoven e Copenhagen. 
+
+![Provenienza dei partecipanti](images/CAP_3/Ivrea/ws/1_Provenienza.png "Provenienza dei partecipanti")
+
+La **gender balance** rileva una maggiore partecipazione maschile con circa il 62,5%.
+
+La partecipazione femminile sale al 40% sul gruppo di partecipanti effettivi.
+
+![Gender balance](images/CAP_3/Ivrea/ws/2_Gender.png "Gender balance")
+
+Rispetto alla composizione dei ruoli e delle posizioni professionali, il workshop ha attratto tre principali tipologie: 
+
+   * **professionisti** provenienti da mondi differenti (tra freelancer, imprenditori, liberi professionisti, creativi, dipendenti di grandi aziende) che rappresentano ben il 40,6% degli iscritti; 
+   * **studenti**, che arrivano al 34,4%; 
+   * **ricercatori e dottorandi**, al 12,5%; 
+   * si rileva inoltre una candidatura di *studente lavoratore* e un *neolaureato* con una carriera in via di definizione. 
+
+La presenza di professionisti è ancora più interessante se si tiene conto che la Fall School ha richiesto l’impegno di una intera settimana in un momento pienamente lavorativo, privo di ponti e vacanze. 
+   
+   > In generale, una composizione variegata che ha favorito l’incontro e la commissione di mondi ed età differenti in grado di fornire stimoli e prospettive multiple nella fase di progettazione.
+
+![Ruoli](images/CAP_3/Ivrea/ws/3_Role.png "Ruoli")
+
+   > Sui **background** e le **competenze** è stata posta una particolare attenzione in fase di scrittura della call. 
+
+A questo scopo per ogni area è stato chiesto ai partecipanti do valutare in scala da 0 (non ho competenze) a 5 (sono un esperto/a) le proprie competenze in un variegato campo: dal business, all’IP protection, alla data-science, passando per l’arte, le humanities, la comunicazione e il design.
+
+Questa attenzione ci ha consentito da un lato di selezionare i partecipanti assicurando una armonica distribuzione delle competenze necessarie a sviluppare il progetto nei gruppi di lavoro; dall’altro di fornire strumenti di autoanalisi ai partecipanti per riflettere sui propri background in relazione alla Fall School.
+
+Dall’analisi dei background emerge **un gruppo variegato in grado di coprire sostanzialmente tutti i settori dell’impresa datapoietica**, con una prevalenza di esperti negli ambienti collaborativi, buone competenze di business e di design che attraversano le humanities e, rispetto alla call e al progetto molto specifico sul tema, una leggera fragilità nel settore della data visualization e della comunicazione. 
+
+   > A seguire il dettaglio delle diverse aree.
+
+L’area **Economy/Law** ha visto la maggiore concentrazione di esperti nell’ambito dei *collaborative environment*. Scarsa la presenza di competenze in IP protection/data management, fondamentale per un impresa al cui cuore c’è la gestione dei dati, e di esperti in fundraising. Mediamente rappresentato il settore delle digital currency. 
+
+![Background: Economy/Law](images/CAP_3/Ivrea/ws/4_Economy_Law.png "Background: Economy/Law")
+
+Il **Design**, l’area maggiormente rappresentata per numero di partecipanti, ha visto una prevalenza di esperti in Visual, Communication e Product Design. Meno rappresentati il Transmedia e l’Ecosystems Design. 
+
+![Background: Design](images/CAP_3/Ivrea/ws/5_Design.png "Background: Design")
+
+La **Comunicazione** si è rivelata un’area molto popolata, ma relativamente fragile: pochi gli iscritti che si ritengono esperti, con la fascia principale media che percepisce buone competenze nell’organizzazione degli eventi e nella gestione dei social media. Anche il *Business Pitching*, una competenza molto specifica, è presente con un *esperto*. 
+
+![Background: Comunicazione](images/CAP_3/Ivrea/ws/6_Comunication.png "Background: Comunicazione")
+
+L’area **Arts & Data** rivela una composizione del gruppo con competenze medio/alte, ma anche qui con poche eccellenze. Spiccano due esperti in scenografie digitali, uno in Computational Art and Design e uno in Data/Information design. 
+
+Il resto dei partecipanti si attribuisce da 4 a 0 punti: gli skill più deboli quelli della data-science.
+
+![Background: Arte](images/CAP_3/Ivrea/ws/7_Art.png "Background: Arte")
+
+Presenti anche le **Humanities**, con picchi in Sociologia e Psicologia, seguiti dall'Antropologia con nessun esperto. 
+
+![Background: Humanities](images/CAP_3/Ivrea/ws/8_Humanities.png "Background: Humenities")
+
+Presenti anche l’*Architettura* (con due esperti), lo *Urban Planning* (due esperti) e l’*Ingegneria* (con quattro partecipanti che si attribuiscono competenze buone: si tratta di background misti all’economia e al design)
+
+![Background: Architettura e ingegneria](images/CAP_3/Ivrea/ws/9_Engeneering.png "Background: Architettura e ingegneria")
+
+Si è inoltre indagato il **possibile investimento degli iscritti in relazione al futuro sviluppo dell’impresa datapoietica**, fornendo una serie di opzioni con esempi che aiutassero a definire uno scenario concreto di coinvolgimento:
+
+   * circa il **45%** degli iscritti (18 su 45) si dichiara *interessato ad una maggiore comprensione del fenomeno datapoietico* (“I'm interested in a better understanding of the Datapoiesis phenomenon and how we can benefit from it, as individuals, companies, societies”): questo denota che la principale attrattiva del progetto è il suo carattere culturale, il potenziale innovativo e di ricerca: sono questi gli elementi scatenanti della partecipazione anche prima dell'opportunità di business;
+   * circa il **32%** intende *collaborare da soggetto indipendente*, mantenendo una propra autonomia professionale e di status (“I want to collaborate with the future startup as an independent professional/researcher/consultant with my project, eg: I have an idea for a datapoietic object whiche can be developped together etc...”);
+   * circa il **13%** si è iscritto perché vuole *entrare a far parte della futura impresa* (“I want to be part to the startup”);
+   * un partecipante dimostra infine un approccio appassionato all’evento in sé: *“The data deluge requires proper assessment. I want to engage into the critical usage of data, by taking part into a completely different event, eventually meeting very interesting people. This should be a blueprint for learning something good, something for the future, escaping the more traditional type of events. I do have my own company, so this may be a chance to new ventures..”*
+
+![Coinvolgimento futuro](images/CAP_3/Ivrea/ws/10_futuro.png "Coinvolgimento futuro")
+
+L’application form conteneva infine le seguenti domande:
+
+   * insieme al cv e al portfolio, un’autopresentazione in 500 battute;
+   * una selezione di massimo tre competenze considerate come le proprie “best expertise”;
+   * ulteriori skill possedute che non rientravano nelle liste;
+   * una definizione personale di Datapoiesis e del perché fosse importante per loro (“Define what means for you "Datapoiesis" and why it is relevant/important”);
+   * generi musicali ascoltati, libri che hanno cambiato la vita, film o serie TV preferiti.
+
+   > Perché il fiorire di tutte queste domande che danno quasi la sensazione di essere “in eccesso”? 
+
+Il motivo risiede nella logica dello evento. Abbiamo cercato di mettere a punto un questionario che si avvicinasse il più possibile ad una *“job interview”*, ricreandone il clima e la sensazione. La Fall School è infatti stata esplicitamente comunicata e costruita come una “prova generale” della futura impresa, in cui  partecipanti sono stati chiamati e selezionati con la prospettiva di far parte dell’equipe datapoietica: un momento di reciproca conoscenza, basato sull'occasione di partecipare ad un’esperienza formativa, e testare il proprio interesse contribuendo in modo attivo alle fasi di concettualizzazione della stessa impresa. 
+
+Questo approccio ha contrassegnato tutta la lunga application form: arrivare alla fine è stato il primo commitment degli iscritti, a dimostrazione del reale interesse a partecipare.

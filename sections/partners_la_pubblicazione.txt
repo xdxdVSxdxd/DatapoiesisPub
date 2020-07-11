@@ -1,0 +1,14 @@
+  > §
+
+#DATAPOIESIS. La Vita del progetto
+
+####[Pubblicazione a cura di]
+##AOS, Art is Open Source + Plus Value ltd
+
+####[Editing]
+##Oriana Persico
+
+####[Design generativo e info-visualizzazioni in tempo reale]
+## HER: she Loves Data 
+
+*In occasione della pubblicazione il centro HER, diventato **HER: she Loves Data**, ha realizzato un nuovo tool, D-Pub. Acronimo di Datapoietic Publishing, il tool consente di trasformare i testi e i contenuti di una normale publicazione in visualizzazioni infoestetiche, realizzando esperienze interarttive in tempo reale. Un'evoluzione del publishing digitale in senso datapoietico.*

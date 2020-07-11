@@ -1,0 +1,73 @@
+Per la Fall School, ICONA ha messo a disposizione i suoi uffici: l’unico spazio pienamente ristrutturato e riscaldato dell’edificio, dove si sarebbero potute svolgere le lezioni. 
+
+L’ufficio si trova all’ingresso del Pino, nel terzo ampliamento, dove si possono apprezzare le ampie vetrate doppie che inondano di sole gli spazi.
+
+Abbiamo così beneficiato di un ambiente di lavoro che era già quello di una azienda.
+
+![L'ufficio di ICONA](images/CAP_3/Ivrea/tool/vista.jpg "L'ufficio di ICONA")
+ 
+###La scenografia: l'ufficio dell'impresa datapoietica
+
+   > Ispirandoci a questo, è stata creata una scenografia che riproducesse gli spazi di lavoro della futura impresa datapoietica, immergendo i partecipanti in una simulazione dell’ambiente di lavoro
+
+A questo scopo è stata realizzata semplice ma suggestiva *segnaletica in cartone*, coerente con  l’identità grafica del sito, nei colori del bianco, del rosso e del nero:
+
+   * tre insegne corrispondenti ai tre gruppi di lavoro: Business, Design e Identity;
+   * una per il Common Space: un grande tavolo adibito alle assemblee e alle riunioni spontanee fra persone e gruppi;
+   * due roll-up: uno a dare il benvenuto, l’altro a delimitare uno spazio conferenze e presentazioni frontali, con a disposizione un monitor.
+
+![Insegne, gruppo Identity](images/CAP_3/Ivrea/tool/insegne.jpg "Insegne")
+
+![Esempio di insegna, gruppo Identity](images/CAP_3/Ivrea/tool/id1.jpg "Esempio di insegna, gruppo Identity")
+
+![Esempio di insegna, gruppo Identity](images/CAP_3/Ivrea/tool/id.jpg "Esempio di insegna, gruppo Identity")
+
+A questi elementi architetturali si è aggiunta la **gift-bag** composta da una busta in argento metallizzato. Ogni busta è stata caratterizzata da un badge in cartone con il nome (rosso per il team, bianco per i partecipanti e il comitato scientifico), una lettera di benvenuto, le card con le tre icone datapoietiche, il programma e un’infografica con gli obiettivi da raggiungere giorno per giorno.
+
+![Datapoiesis Fall School, Gift Bag](images/CAP_3/Ivrea/tool/gift.jpg "atapoiesis Fall School, Gift Bag")
+
+   > Per la Fall School, profondamente incentrata sulla produzione e il design, è inoltre stato realizzato il primo gadget datapoietico: un **flipbook in cui ripercorrere la storia della povertà**, stampato e confezionato per l’occasione.
+
+![Datapoiesis Fall School, flipbook: il primo gadget datapoietico](images/CAP_3/Ivrea/tool/book.jpg "Datapoiesis Fall School, flipbook: il primo gadget datapoietico") 
+
+###Il tool datapoietico: un "data-environment" generativo per la Fall School
+
+   > All’ambiente fisico, è corrisposta una ricerca e una progettazione mirata che ha trasformato la Fall School nell'occasione di sperimentare un primo ambiente di lavoro “datapoietico”. 
+
+Si tratta di un pezzo di lavoro aggiuntivo che è stato realizzato dal centro di ricerca HER, mettendo insieme una serie di strumenti per raccogliere i dati prodotti dai partecipanti durante il workshop lavorando nei diversi gruppi sui rispettivi obiettivi, e trasformarli in visualizzazioni che consentissero sia di collaborare trasversalmente fra i gruppi, sia di beneficiare della conoscenza prodotta lavorando insieme.
+
+   > Se la scenografia è stata progettata per immergere i partecipanti in un “set” di lavoro, il data-environment ha lavorato sulla creazione di un ambiente e di un lifestyle datapoietico (precettivo ed esperienziale) in cui i dati generati nel flusso di lavoro (e la nuova opportunità tecnica di raccoglierli, analizzarli e conoscerli attraverso la visualizzazione) sono parte integrante dell’esperienza quotidiana dando vita ad un data-commons accessibile e alla possibilità di osservarsi/autosservarsi di chi lo produce.
+
+Tutor e partecipanti hanno ricevuto l’accesso e le rispettive istruzioni per l’uso del tool datapoietico nei giorni precedenti alla Fall School. 
+
+L’ambiente è stato studiato come una evoluzione digitale del calendario giornaliero riservato a tutor e partecipanti in cui, per ogni giorno, sono stati inseriti:
+
+   * la descrizione delle attività;
+   * l’obiettivo e l’output fissato;
+   * i link ai rispettivi brief e alla documentazione per ogni gruppo;
+   * i link in cui inserire i dati per consentirne la visualizzazione, in particolare: A) uno slack condiviso con il gruppo; B) una serie di fogli excell corrispondenti alla ricerca nelle diverse fasi del workshop, da usare in modo armonico e contestuale da parte dei gruppi a supporto del lavoro;
+   * i link per visualizzare il lavoro svolto e le sue evoluzioni giornaliere.
+
+Nello specifico sono stati realizzati i seguenti fogli excell collaborativi:
+
+   * Benchmark, in cui annotare esempi di aziende, progetti, opere, oggetti di design connessi o rilevanti per l’impresa datapoietica;
+   * Inspiration, per la ricerca visuale;
+   * Ecosystems, un foglio più complesso per descrivere le tipologie di attori/soggetti presenti nell’ecosistema, i loro ruoli e le tipologie di interazioni possibili fra di essi. 
+   * Production, per raccogliere i template e i materiali relativi all’exhibit
+
+L'immagine in basso è un frammento di calendario in cui vediamo la data, le agttività distribuite nell'arco dellla giornata, l'obiettvo del giorno che il gruppo deve raggiungere, e una serie di link sia ai materiali, ai fogli collaborativi e alla loro visualizzazione. Nell'interfaccia i punti di accesso sono i bottoni in rosso . Ad esempio:
+
+   * "the briefs docimentation folfer" è l'accesso alla cartella contenente tutti i materiali di brief per i diversi gruppi;
+   * "Benchnark worksheet" corrisponde al foglio collaborativo;
+   * "Benchmark visualization" corrisponde alla visualizzazione dei dati raccolti
+
+![Datapoiesis Fall School: interfaccia di accesso al data-environment riservato ai parteciopanti e ai tutor](images/CAP_3/Ivrea/tool/data_ambiente.png "Datapoiesis Fall School: interfaccia di accesso al data-environment riservato ai parteciopanti e ai tutor")
+
+E così via nello scorrere dei giorni per i diversi materiali e le diverse funzioni, sempre a portata di mano in un luoho che diventa sia il calendario, sia lo spazio di lavoro per tutor e partecipanti, in modo semplice e accessibile. 
+
+ > Il tool, in sintesi, ha creato un “data-environment” generativo, in coerenza con il concept della Datapoiesis proiettando nel futuro prossimo dell’impresa tutor e partecipanti.
+
+Il tool è infatti servito a monte e a valle del workshop. 
+
+Tutti i dati raccolti, i materiali e le visualizzazioni sono stati utilizzati come appunti di lavoro, possibilità di osservare e commentare la conoscenza prodotta durante il workshop e, infine, per generare output visivi da esporre nell’exhibit come vedremo nella capitolo successivo.
+

@@ -1,0 +1,231 @@
+{
+	"configuration": {
+		"title": "Datapoiesis",
+		"subtitle": "La vita del progetto",
+		"coverimage": "images/cover.jpg"
+	},
+	"sections": [
+
+		{
+			"title": "PREMESSA",
+			"datafile": "sections/premessa.txt"
+		},
+
+		{
+			"title": "INTRODUZIONE",
+			"sections": [
+
+				{
+					"title": "(1) Datapoiesis. Il concept",
+					"datafile": "sections/datapoies_il_concept.txt"
+				}
+
+			]
+		},
+		{
+			"title": "WHAT WE DID",
+			"sections": [
+
+				{
+					"title": "(2) Arte come strategia",
+					"datafile": "sections/arte_come_strategia.txt",
+					"sections": [
+
+						{
+							"title": "2.1 OBIETTIVO: il primo oggetto datapoietico",
+							"datafile": "sections/Obiettivo_il_primo_datapoietico.txt"
+						}
+
+					]
+				},
+				{
+					"title": "(3) Exhibit / Codesign",
+					"datafile": "sections/exhibit_codesign.txt",
+					"sections": [
+
+						{
+							"title": "3.1 OBIETTIVO Ancona. Datapoiesis si rivela",
+							"datafile": "sections/Obiettivo_Ancona.txt",
+							"sections": [
+								{
+									"title": "3.1.1 Building Scenarios: il Workshop",
+									"datafile": "sections/Building_Scenarios_Workshop.txt",
+									"sections": [
+										{
+											"title": "3.1.1.1 Composizione",
+											"datafile": "sections/Composizione.txt"
+										},
+										{
+											"title": "3.1.1.2 Svolgimento e materiali",
+											"datafile": "sections/Svolgimento_e_materiali.txt"
+										},
+										{
+											"title": "3.1.1.3 Output",
+											"datafile": "sections/Output.txt"
+										}
+									]
+								},
+								{
+									"title": "3.1.2 Il Talk",
+									"datafile": "sections/Il_Talk.txt"
+								},
+								{
+									"title": "3.1.3 Focus Media: rassegna stampa",
+									"datafile": "sections/Focus_Media_rassegna_stampa.txt"
+								}
+							]
+						},
+						{
+							"title": "3.2 Collezione Farnesina. Repentina e inaspettata acquisizione del primo oggetto datapoietico",
+							"datafile": "sections/Collezione_Farnesina.txt",
+							"sections": [
+								{
+									"title": "3.2.1 Focus Media: rassegna stampa",
+									"datafile": "sections/Focus_Media_rassegna_stampa_farnesina.txt"
+								}
+							]
+						},
+						{
+							"title": "3.3 OBIETTIVO Torino. Comprendere Datapoiesis",
+							"datafile": "sections/OBIETTIVO_Torino.txt",
+							"sections": [
+								{
+									"title": "3.3.1 Marilyn, Che Guevara, Queen Elizabeth: le icone datapoietiche pop del 900",
+									"datafile": "sections/Marilyn_Che_Guevara_Queen_Elizabeth.txt"
+								},
+								{
+									"title": "3.3.2 Evento: dal talk al rituale",
+									"datafile": "sections/Evento_dal_talk_al_rituale.txt"
+								},
+								{
+									"title": "3.3.3 Focus: il rituale e il testo della performance",
+									"datafile": "sections/Focus_il_rituale_e_il_testo_della_performance.txt"
+								},
+								{
+									"title": "3.3.4 Focus Media: rassegna stampa",
+									"datafile": "sections/Focus_Media_rassegna_stampa_Torino.txt"
+								}
+							]
+						},
+						{
+							"title": "3.4 OBIETTIVO Ivrea. Datapoiesis Fall School e la nascita della prima impresa datapoietica",
+							"datafile": "sections/OBIETTIVO_Ivrea.txt",
+							"sections": [
+								{
+									"title": "3.4.1 Composizione: i partecipanti",
+									"datafile": "sections/Ivrea_Composizione_i_partecipanti.txt"
+								},
+								{
+									"title": "3.4.2 Tool e Scenografia: un ambiente datapoietico",
+									"datafile": "sections/Tool_e_Scenografia_un_ambiente_datapoietico.txt"
+								},
+								{
+									"title": "3.4.3 Svolgimento e Output",
+									"datafile": "sections/Ivrea_Svolgimento_e_Output.txt"
+								},
+								{
+									"title": "3.4.4 Exhibit. Vita e artefatti della prima impresa datapoietica",
+									"datafile": "sections/Ivrea_Exhibit.txt"
+								},
+								{
+									"title": "3.4.5 Cultural program: gli eventi con la città",
+									"datafile": "sections/Ivrea_CulturalProgram.txt"
+								},
+								{
+									"title": "3.4.6 OBIETTIVO. Un cuore acceso nelle fabbriche ex-Olivetti",
+									"datafile": "sections/Ivrea_Obiettivo_cuore_acceso_fabbriche.txt"
+								},
+								{
+									"title": "3.4.7 Focus Media: rassegna stampa",
+									"datafile": "sections/Focus_Media_rassegna_stampa_Ivrea.txt"
+								}
+							]
+						},
+						{
+							"title": "3.5 OBIETTIVO Bologna. Datapoiesis nelle città",
+							"datafile": "sections/OBIETTIVO_Bologna.txt",
+							"sections": [
+								{
+									"title": "3.5.1 Evento-mostra: da Gira la Cartolina al rituale",
+									"datafile": "sections/Evento_mostra_da_Gira_la_Cartolina_al_rituale.txt"
+								},
+								{
+									"title": "3.5.2 Panel: i dati e il welfare urbano",
+									"datafile": "sections/Panel_i_dati_e_il_welfare_urbano.txt"
+								},
+								{
+									"title": "3.5.3 Focus Media: rassegna stampa",
+									"datafile": "sections/Focus_Media_rassegna_stampa_Bologna.txt"
+								}
+							]
+						},
+						{
+							"title": "3.6 OBIETTIVO Roma. Datapoiesis incontra il Corona Virus",
+							"datafile": "sections/OBIETTIVO_Roma.txt",
+							"sections": [
+								{
+									"title": "3.6.1 A Song for Corona: un nuovo concept datapoietico",
+									"datafile": "sections/A_Song_for_Corona.txt"
+								},
+								{
+									"title": "3.6.2 Focus Media: rassegna stampa",
+									"datafile": "sections/Focus_Media_rassegna_stampa_Roma.txt"
+								}
+							]
+						}
+
+					]
+				}
+
+			]
+		},
+
+		{
+			"title": "FUTURE",
+			"sections": [
+				{
+					"title": "Generativa: l’impresa datapoietica",
+					"datafile": "sections/Generativa_l_impresa_datapoietica.txt",
+					"sections": [
+						{
+							"title": "4.1 Voci",
+							"datafile": "sections/Voci.txt"
+						}		
+					]
+				}
+			]
+		},
+
+
+		{
+			"title": "CREDITS",
+			"sections": [
+				{
+					"title": "Partners",
+					"datafile": "sections/Partners.txt",
+					"sections": [
+						{
+							"title": "I WORKSHOP",
+							"datafile": "sections/partners_i_workshop.txt"
+						},
+						{
+							"title": "LE MOSTRE",
+							"datafile": "sections/partners_le_mostre.txt"
+						},
+						{
+							"title": "LA PUBBLICAZIONE",
+							"datafile": "sections/partners_la_pubblicazione.txt"
+						}		
+					]
+				}
+			]
+		},
+
+
+		{
+			"title": "Annex. L’ecosistema dell’impresa datapoietica dopo la review",
+			"datafile": "sections/Annex.txt"
+		}
+
+	]
+}

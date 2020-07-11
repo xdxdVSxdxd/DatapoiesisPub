@@ -1,0 +1,31 @@
+Il workshop è partito da un'esperienza: una visita guidata all’installazione è stata l'occasione per introdurre i partecipanti al concetto della Datapoiesi rendendolo tangibile, fisico e accessibile ad un pubblico trasversale e composito come quello degli iscritti. 
+
+   > L'arte e l'opera ancora una volta come lo spazio privileggiato della ricerca. 
+
+Dopo la plenaria i partecipanti si sono divisi in tre gruppi per elaborare scenari futuri in cui oggetti, elementi di mobilio, ambientali e dispositivi connessi in rete fossero in grado di **abilitare le persone ad avere esperienza dei fenomeni complessi del mondo globalizzato tramite i dati e le loro rappresentazioni**. Gli oggetti avrebbero docuto consentire alle persone di trarne significati, occasioni di dibattito pubblico costruttivo e opportunità per la realizzazione di nuovi servizi e processi (con una forte valenza sociale, istruttiva, relazionale, ecologica e per la salute e il benessere).
+
+La progettazione si è sviluppata lungo due fasi
+
+###FASE 1
+
+Nella prima fase i gruppi hanno individuato il tema, scegliendolo da 12 temi selezionati: cambiamento climatico, felicità, mercato finanziario, benessere di una organizzazione, povertà, salute, migrazioni, fame nel mondo, energia, comunicazione. 
+
+Per ogni tema sono state progettate le **Schede Fenomeno Complesso**: delle apposite schede contenenti una breve descrizione del tema, una serie di fonti di dati e, alla fine, una serie di domande-stimolo.
+
+Le schede sono consultabili a questo link:  
+<https://drive.google.com/drive/folders/1hi9qskZH8oWuVkHlCK_DIC6EEeqI1oZE?usp=sharing>
+
+###FASE 2
+
+Nella seconda fase, i gruppi hanno elaborato i concept servendosi di **tre canvas** progettati per descrivere concettualmente l’oggetto e il fenomeno datapoietico. 
+
+Il primo consente di descrivere l’oggetto datapioetico con un abstract e uno sketch, e di scegliere il contesto in cui sarà posizionato. Il secondo serve a descrivere il fenomeno: quali dati usa, quali le implicazioni etiche e critiche, come avviene la datapoiesi, cioè quale fenomeno portano alla luce e come ciò è trasformativo. Il terzo canvas consente di riassumere i primi due mostrando le connessioni e gli effetti, per una visione d’insieme.
+
+I canvas sono consultabili a questo link: 
+<https://drive.google.com/file/d/1deIPi81ip5L8cT5DtK8w73QCcJWq3_TD/view?usp=sharing>
+
+Le slide di presentazione preparate per la plenaria e la discussione sono infine reperibili a questo link.
+
+![Workshop Building Scenarios: gruppi al lavoro](images/CAP_3/Obiettivo_Ancona/Ancona_svolgimento.jpg" Workshop Building Scenarios: gruppi al lavoro")
+
+![Workshop Building Scenarios: esempio di scheda tematica](images/CAP_3/Obiettivo_Ancona/SchedaFenomeno_ClimateChange_page-0001.jpg" Workshop Building Scenarios: esempio di scheda tematica")

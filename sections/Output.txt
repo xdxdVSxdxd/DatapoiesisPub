@@ -1,0 +1,29 @@
+Nel corso del workshop sono stati elaborati **3 diversi concept**.
+
+Di particolare interesse per gli sviluppi del progetto è stata la netta **prevalenza dello spazio pubblico come contesto elettivo dove gli oggetti datapoietici sono stati immaginati e posizionati**. Un’indicazione che ha confermato le scelte emerse dalla ricerca, molto significativa per gli sviluppi futuri del progetto che abbiamo effettivamente scelto.
+
+##[1] Sounds Good / Radiotherapy 
+
+####- Tema: la felicità in un’organizzazione
+####- Contesto: Ospedale
+ 
+   > Un dispositivo per dedicare una canzone alle persone negli ospedali, con l'obiettivo di rompere le modalità di relazione impersonali (e gerarchiche) di questo ambiente profondamente esposto alla pressione delle procedure (verso i pazienti, il personale di cura e le famiglie), incoraggiando l'empatia e il reciproco affetto. Tipo di dati: file audio, gradimento interattivo, commenti personali, emozioni (sentiment/emotional analysis).
+
+##[2] CO2sDayClock
+
+####- Tema: Climate change
+####- Contesto: Spazio Pubblico
+
+   > Una scultura in grado di mostrare il livello globale in eccesso di CO2. La scultura si attiva una volta l’anno in modo rituale (ad esempio in concomitanza di eventi globali dedicati al clima), consentendo di attivare meccanismi di coinvolgimento intorno all’evento (dalle pratiche virtuose in campo energetico a quelle poetiche e artistiche per unirsi nella comprensione e nella consapevolezza di questo fenomeno).
+
+##[3] Happy Park 
+
+####- Tema: Felicità
+####- Contesto: Spazio Pubblico
+
+   > Nel parco, luogo di relax per eccellenza nelle città, aperto a persone di tutte le età, vari device comparano gli indici globali di felicità generati da grandi organizzazioni, con dati locali raccolti dall’interazione dei device nell’ambiente, per incoraggiare pratiche positive di socialità diffusa (ad esempio una panchina smart che registra le presenze mette in relazione la felicità globale con il numero di persone che la frequentano, generando in base a questo messaggi indirizzati alle persone, un cestino, un albero…).
+
+![Workshop Building Scenarios: il gruppo al lavoro](images/CAP_3/Obiettivo_Ancona/output.jpg "Workshop Building Scenarios. Salvatore Iaconesi spiega il concept di Datapoiesi")
+
+![Workshop Building Scenarios. Salvatore Iaconesi spiega il concept di Datapoiesi](images/CAP_3/Obiettivo_Ancona/6_Workshop_Building_Scenarios.jpg "Workshop Building Scenarios: il gruppo al lavoro")
+ 

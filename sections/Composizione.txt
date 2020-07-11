@@ -1,0 +1,36 @@
+In circa 20 giorni di campagna, *il workshop ha registrato 21 iscritti provenienti dalle più disparate città italiane*. Da Barletta a Verona, la città di Roma con 3 iscritti è al primo posto, la seconda è Trento con due iscritti (entrambi ricercatori della  Fondazione FBK), mentre i restanti 16 provengono tutti da città differenti, evidenziando l’impatto nazionale e una distribuzione molto articolata della call, con una concentrazione nel centro e nord Italia. 
+
+![Workshop Building Scenarios: la provenienza degli iscritti](images/CAP_3/Obiettivo_Ancona/1_Provenienza_Iscritti.png "Workshop Building Scenarios: la provenienza degli iscritti")
+
+La gender balance rivela una **percentuale altissima di partecipazione femminile**, che arriva ben al **70%** degli iscritti. 
+
+![Workshop Building Scenarios: gender balance degli iscritti](images/CAP_3/Obiettivo_Ancona/2_Gender_balance.png "Workshop Building Scenarios: gender balance degli iscritti")
+
+La composizione del workshop rivela invece la **compresenza di mondi diversi**, indicativi rispetto ai tipi di pubblici che un progetto come Datapoiesis è in grado di intercettare. I professionisti (9 in tutto) raggiungono il 45%; 4 i ricercatori; 5 gli studenti fra cui una tesista: nel gruppo, infine, un insegnante progettista e una persona che non desidera definire il proprio ruolo. 
+
+![Workshop Building Scenarios: ruoli e professioni degli iscritti](images/CAP_3/Obiettivo_Ancona/3_Professione_iscritti.png" Workshop Building Scenarios: ruoli e professioni degli iscritti")
+
+Coerentemente con il progetto, i **background degli iscritti rivelano una netta prevalenza del design, ma allo stesso tempo una grande transdisciplinarietà**. A design seguono infatti lettere, filosofia e sociologia: altre discipline rappresentate sono comunicazione, arte, data science, architettura, educazione e sostenibilità ambientale. 
+
+![Workshop Building Scenarios: ruoli degli iscritti](images/CAP_3/Obiettivo_Ancona/4_Background_iscritti.png" Workshop Building Scenarios: ruoli degli iscritti")
+
+Di grandissimo interesse sono **le motivazioni degli iscritti**, per comprendere l’attrattiva di questo tipo di iniziative, i bisogni e le aspirazioni dei pubblici che hanno partecipato. 
+
+C’è già chi è arrivato pensando alle evoluzioni del Made in Italy. Chi ha un’anima di innovazione sociale legata sia al mondo aziendale, sia più specificamente al ruolo dei dati. Chi sa che nel suo mestiere con i dati dovrà avere a che farci e desidera aggiornarsi. In molti casi è inoltre esplicita la capacità del workshop di cogliere figure e biografie di formazione e professionali ibride che mischiano dati e umanesimo:
+
+   > *>> Ho uno studio di consulenza che si occupa di sostenibilità nel made in Italy del lusso, in particolare per gli arredi. Possiamo considerarci '”influencers”? forse si. Vorrei farmi ispirare da Datapoiesis per dare nuovo senso e contenuto al binomio lusso e sostenibilità*
+
+   > *>> Nonostante abbia un background prevalentemente umanistico, sono molto interessata al concetto di dato: a come si genera e soprattutto al rapporto con la comunità e l'individuo. Siamo circondati e generiamo costantemente dati, ma è difficile intercettarli e soprattutto capire come relazionarci ad essi. Credo che questo workshop potrà aiutarmi a capire meglio le dinamiche di queste relazioni.*
+
+   > *>> Sono ricercatore in ambito design, pur avendo formazione filosofica, e mi occupo dell'impatto delle tecnologie digitali sulla pratica progettuale, quindi il workshop calza a meraviglia. Inoltre ho partecipato a quello di Human Ecosystems Relazioni svoltosi a Venezia, ed era stato di grande stimolo, spero di poter ripetere l'esperienza.*
+
+   > *>> Sono una graphic designer e attualmente lavoro su interfacce grafiche che integrano mappe e dati. Purtroppo il tutto è proiettato sul mero marketing, dove le variabili sono attinenti solo al business aziendale. Quello che sento forte è di voler mescolare l'arte e la creatività a questi strumenti. Usarli per creare un "altruismo sociale". Vorrei capire e conoscere, ma anche esprimere e concretizzare qualcosa di più verticale, e quindi poetico.*
+
+   > *>> Come designer amo l'information design e la DataViz, ambiti che seguo e dove vorrei lavorare. Credo fortemente nell'utilizzo della rete e i dati che ogni giorno ci circondano ai fini di una società più equa e libera da sistemi centralizzati. Vorrei partecipare a questo workshop per confrontarmi con queste tematiche poco comuni nei lavori quotidiani e attraverso il confronto con altre persone vorrei ampliare la mia visione sull'impatto che il design ha su questi argomenti.*
+
+   > *>> Lavoro nel settore dell'innovazione sociale come design e project manager (con particolare focus su tecnologie emergenti e comunità) e, sempre di più, ho a che fare con l'interdisciplinarietà come nuovo paradigma per valorizzare la creatività come strumento fondamentale per immaginare futuri alternativi e desiderabili per le comunità del futuro.*
+
+   > *>> Credo che attraverso la partecipazione ai vari focus formativi che si terranno durante l'evento, potrei acquisire metodologie e strumenti concreti per evolvere il mio percorso artistico, permettendo alla mia creatività di interagire con altre discipline.*
+
+Dei 21 iscritti, **i partecipanti effettivi sono stati 13** (più 2 uditori che si sono mischiati alle attività del workshop). 
+

@@ -1,0 +1,40 @@
+Il futuro di Datapoiesis è iniziato al termine della Fall School, ad Ivrea, quando è stato presentato ad un gruppo di possibili “early adopters” provenienti da realtà geografiche e da business diversi. Questo momento di condivisione ha permesso di sollevare quesiti e raccogliere feedback utili per perfezionare il modello e renderlo una vera e propria attività commerciale e sociale insieme.
+
+
+   > La scommessa di Datapoiesis è quella di riuscire ad organizzare in una struttura distribuita una serie di competenze e abilità diverse che ruotino intorno alla creatività e alla scienza dei dati. 
+
+Una sorta di **agenzia di creativi italiana di nuova generazione  dedicata ai dati e alla computazione**, in grado di offrire una molteplicità di servizi che consentano a ogni tipo di organizzazione – dagli operatori della cultura, al settore pubblico, alle imprese – di capire meglio i dati che producono – o che potrebbero produrre – e di utilizzarli per meglio comunicare e collaborare con i propri stakeholder di riferimento.
+
+   > La ratio guida della futura organizzazione è infatti la generatività dei dati, che si contrappone in maniera evidente al modello estrattivo imperante delle nostre società contemporanee. 
+
+Tanto la raccolta quanto l’analisi e la restituzione di questi dati potrà avvenire seguendo diverse modalità, articolandosi sulla creazione di oggetti datapoietici e di tutta una serie di attività e iniziative (di ricerca, design, comunicazione e workshops) da organizzare intorno a questi oggetti “totemici”, simbolo di una rinata lettura della realtà e preambolo per un cambiamento collettivo.
+
+
+   > Dal punto di vista dello **start-up di impresa**, la creazione della venture datapoietica è stata pensata in due frasi:
+
+####1) Brand creation e market test
+
+Nel corso del 2020 i partner chiave del progetto continueranno a lavorare insieme per testare i prodotti datapoietici con gli early adopter identificati nell’evento di chiusura della Fall School di Ivrea. 
+
+   > Al momento, sono in fase di discussione quattro progetti datapoietici con quattro enti molto diversi. 
+
+Questa prima fase consentirà di affinare meglio l’offerta e il relativo pricing, di rinforzare il network (di designers, artisti, ingegneri, data-scientists, fruitori,...) di Datapoiesis e di strutturare al meglio la struttura legale e di governance della nuova impresa.
+
+####2) Strutturazione della società
+
+Al termine del 2020, si procederà con la strutturazione della nuova venture. Le due opzioni giudicate più percorribili sono:
+
+   > a. Creazione di un **ente not-for profit** (associazione o fondazione) che abbia il mandato di definire le regole per un uso Datapoietico (non estrattivo) dei dati, sulla cui base potranno essere selezionati tutti i professionisti (siano essi attori commerciali o del no profit; persone o società) che potranno utilizzare il brand Datapoietico e i dati e strumenti raccolti nella piattaforma a condizioni diverse a seconda del loro obiettivo (di ricerca, sociale, commerciale) e del loro contributo alla sostenibilità della piattaforma stessa (in kind o in cash). La nont-fpr-profit avrà inoltre il compito di promuovere la datapoiesi tramite attività di educazione, inclusione ed engagement.
+
+Si prevede che all’inizio l’ente no profit, il cui core-team sarà composto dal duo Iaconesi-Persico, svolgerà - in sinergia coi partner di progetto o con altri professionisti selezionati in base alle esigenze dei singoli progetti - anche attività consulenziali/commerciali fino alla creazione di una pipeline sufficiente a giustificare la creazione di un ente for profit indipendente, ma collegato alla for profit, cui verrà devoluta una percentuale di ogni progetto commerciale. 
+
+   > b. Creazione di una **Srl** e **acquisizione del marchio B-Corp** per garantire la massima trasparenza e l’adesione ai principi datapoietici di cui sopra.
+
+L’impresa della futura organizzazione datapoietica sarà quella di trasformare le grandi sfide dei suoi committenti in esperienze “data-driven”, che prendono la forma di installazioni artistiche, oggetti e strumenti per lo spazio pubblico, per edifici istituzionali, scuole, ospedali, musei, case, o di semplici report, ma tutti con l’obiettivo finale di raggiungere le persone che dovrebbero conoscerli, sensibilizzandole sugli impatti che le azioni dei committenti portano alle loro comunità e su come le comunità e i singoli che le compongono possono attivarsi per essere protagonisti.
+
+
+In conclusione, Datapoiesis aspira a diventare un nuovo modo di concepire il futuro, dove dati e scienza smettono di essere separati dal vivere quotidiano per diventare, con l’aiuto di arte e creatività, strumenti di costruzione consapevole del futuro e di un agire più attento e “presente”. Non mettevi comodi, quindi, ma aiutateci ad attuare un cambio di prospettiva netto, che coinvolga l’agire: non più passivo e inconsapevole rispetto al nostro potere di creare dati, bensì proattivo e (co)sciente.
+
+   > **Fiorenza Lipparini** e **Valeria Soliano** (PlusValue)
+
+![Pitch: Fiorenza Lipparini e VAleria Soliano presentano l'impresa datapoietica a comitato scientifico e al gruppo di early adopters. Datapoiesis Fall School, Ufficio di ICONA srl Fabbriche ex Olivetti, Ivrea, 2019](images/CAP_4/pitch.jpg "Pitch: Fiorenza Lipparini e VAleria Soliano presentano l'impresa datapoietica a comitato scientifico e al gruppo di early adopters. Datapoiesis Fall School, Ufficio di ICONA srl Fabbriche ex Olivetti, Ivrea, 2019")

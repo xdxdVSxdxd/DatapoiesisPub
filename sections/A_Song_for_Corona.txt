@@ -1,0 +1,18 @@
+A Song For Corona è un concept di Salvatore Iaconesi, realizzato con il supporto tecnologico e scientifico del centro di ricerca HER.
+
+   > E’ il secondo oggetto datapoietico realizzato dopo OBIETTIVO per riunirci intorno all’emergenza del Corona Virus, creare consapevolezza e riflettere sul ruolo dei dati nelle nostre società.
+
+####Fonte di dati: 
+
+   * “A song for Corona” utilizza come sorgente di dati, gli open data forniti dalla John Hopkins University CSSE. L’intero repository “Novel Coronavirus (COVID-19) Cases” è accessibile a questo link: <https://github.com/CSSEGISandData/COVID-19>
+
+####Visualizzazione: 
+
+   * nel riquadro fucsia al centro dello schermo, in alto è visibile la data (gg/mm/aa); 
+   * al centro ciclano gli stati; 
+   * in basso il numero di persone contagiate. 
+
+
+Gli stessi dati sono sonorizzati, consentendo di immergersi e seguire l’andamento del contagio nel mondo attraverso il tempo e lo spazio, con due sensi: la vista e l’udito.
+
+![Datapoiesis Corona Edition: screenshot dall'interfaccia di visualizzazione, Salvatore IAconesi, 2020](images/Cap_3/Roma/viz.png "Datapoiesis Corona Edition: screenshot dall'interfaccia di visualizzazione, Salvatore IAconesi, 2020")

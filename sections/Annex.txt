@@ -1,0 +1,55 @@
+Alla Fall School è seguito un periodo di riflessione. 
+
+I feedback raccolti durante la review sono stati recepiti ed elaborati da HER e Plus Values per iniziare ad elaborare la forma e il funzionamento dell’impresa datapoietica, riassunti e descritti in questi grafici come evuluzione dei concept iniziali, dopo la review. 
+
+#Il Ciclo della Datapoiesi
+
+![Il ciclo della Datapoiesis: diagramma realizzato dopo la revisione della Fall School](images/CAP_5/1.png "Il ciclo della Datapoiesis: diagramma realizzato dopo la revisione della Fall School")
+
+La Datapoiesi si occupa di fenomeni complessi, di reti, di territori, temi e comunità. *Come si possono raccogliere dati che li raccontino e li spieghino, rendendoci allo stesso tempo più sensibili?*
+
+####[Fase 1] GET DATA ABOUT IT! 
+Alcuni di questi dati potrebbero esistere o essere predisposti (nello schema: Analytics, Research Data, Open Data, Existing Data... ). Altri potrebbero essere generati assieme alla comunità, all'ambiente (nello schema: Participation, Social Networks, Interaction Sensors...). I dati di questi due tipi saranno sia statici, sia dinamici (capaci di aggiornarsi continuamente, descrivendo l'evolversi della vita del sistema). 
+
+####[Fase 2] UNDERSTAND WHAT IT MEANS 
+In Datapoiesis la comprensione dei dati si genera combinando l'azione multidisciplinare dei ricercatori (data analysts, sociologists, mathematicians, philosophers, engineers, psychologists...) e delle IA, che cercano forme ricorrenti nei dati. Attori umani e non umani collaborano per una maggiore comprensione dei fenomeni 
+
+####[Fase 3] Materialize! 
+I dati vanno "materializzati" per portarli negli spazi rilevanti per le persone e le organizzazioni con cui vogliamo avere a che fare, prendendo forma online e offline (nello spazio pubblico, nelle scuole, nell'ufficio, nella hall, nella casa, nel mezzo di trasporto…). Queste "forme" devono preferibilmente avere elementi che sono co-creati con i pubblici di riferimento, per aumentarne l'ownership e l'aggregazione, e contenere elementi di design e/o artistici di grande impatto: devono essere "belle", nel senso di stimolare il desiderio, la partecipazione, l'eros, la vicinanza e l'attivazione individuale. 
+
+####[Fase 4] Relate & Generate 
+Queste "forme" vanno progettate come strumenti di comunità: devono essere dei rituali, devono interconnettere, devono essere eventi ricorrenti che portano le persone a unirsi in uno stato di coscienza e conoscenza aumentato, per prendere decisioni e avviare azioni.Tutto questo dà vita a un processo che mette in relazione e genera nuovi elementi e valore: un ecosistema di cui ci si prende cura, in cui i dati che servono per comprendere, decidere e agire; una comunità più connessa attraverso touchpoint fisici e digitali; nuovi elementi e nuova conoscenza riutilizzabile in altri contesti. Le IA, immerse nell’ambiente, restituiscono agli attori la loro capacità di osservare e analizzare i dati attraverso una nuova forma di autobiografia collettiva e connettiva: un genere letterario inedito per cogliere l'evoluzione del sistema nel suo evolversi. L’autobiografia algoritmica chiude e apre il ciclo datapoietico: agendo nella cultura proprio come un nuovo “libro” di cui gli attori dell’ecosistema possono leggere, fruire e appropriarsi, l’autobiografia permette al sistema di osservarsi e capirsi, e quindi di definire le nuove questioni da affrontare. 
+Il ciclo ricomincia, pronto ad una nuova iterazione, per generare nuova comprensione, conoscenza, attivazione. 
+
+#L'ecosistema della Datapoiesis
+
+![L'ecosistema della Datapoiesis: diagramma realizzato dopo la revisione della Fall School](images/CAP_5/2_L_ecosistema_della_Datapoiesis.png "L'ecosistema della Datapoiesis: diagramma realizzato dopo la revisione della Fall School")
+
+Nell'ecosistema dell’Impresa Datapoietica una serie di attori umani interagiscono e si relazionano tra loro direttamente, utilizzando strumenti e punti di incontro fisici e digitali, e relazionandosi anche con attori non umani, come le IA e gli elementi del loro ambiente resi *"sensatili"* (traduzione scelta per il neologismo inglese *“senseable”*, ovvero "capaci di suscitare sensibilità" come quando si collega un sensore a un albero o altro elemento del nostro ambiente).
+
+Diversi tipi di ricercatori, esperti e soggetti con competenze specifiche, utilizzano gli insiemi di **tool della Datapoiesis**, individualmente e collaborando tra loro:
+
+   * alcuni tool servono ad **analizzare dati**;
+   * altri servono a **generare dati**. Per esempio: dagli ambienti, ma anche grazie alla partecipazione attiva delle persone. Le IA agiscono a questo livello: cercano forme ricorrenti nei dati, permettendo nuove forme e qualità di conoscenza, nuove forme di relazione e interazione.
+
+Tutti questi strumenti, sono anche disponibili tramite delle API (Application Programming Interfaces), che permettono di prendere questi dati e funzionalità, e rendere ambedue disponibili in altri contesti:
+
+   * una **libreria aperta di componenti open source** usa queste funzionalità delle API per rendere disponibili modi in cui rappresentare i dati con forme, colori, luce, vibrazioni, suono, immagini ed altri, o per raccogliere dati con la partecipazione attiva e consapevole delle persone, attraverso i gesti, il testo, la voce, l'immagine, il corpo, l'ambiente, le azioni eccetera;
+   * la **libreria si espande sempre**, aperta ai contributi delle persone, dei creativi e di tutti gli altri che realizzano elementi nell'ecosistema, rendendo disponibili sempre più possibilità;
+   * gli **elementi della libreria si possono unire tra loro e con altri** per creare esperienze, installazioni, dispositivi, oggetti, rituali, pubblicazioni ed altre entità datapoietiche, utilizzate, vissute e agite dai fruitori, individualmente e insieme.
+
+#La Datapoiesis come evento
+
+![La Datapoiesis come evento: diagramma realizzato dopo la revisione della Fall School](images/CAP_5/3_Datapoiesis_come_evento.png "La Datapoiesis come evento: diagramma realizzato dopo la revisione della Fall School")
+
+Intesa come evento (o nel considerare il caso di un evento con caratteristiche datapoietiche), la Datapoiesis necessita di preparazione, manifestazioni sensibili, e cura dell'ecosistema relazionale.
+
+La **preparazione della Datapoiesis** richiede di predisporre un ambiente in cui i dati si possano manifestare: attraverso l'operato consapevole dei partecipanti, attraverso l'ambiente fisico e digitale, e attraverso i processi che vi si svolgono. Che sia attraverso i social network, predisponendo sensori e analytics, creando opportunità di interazione, relazione e performance o altro, i dati devono potersi manifestare nell’ambiente e gli attori coinvolti devono poter aver conoscenza e consapevolezza di questo loro manifestarsi, tramite analisi e visualizzazioni.
+Tutti questi strumenti si possono immaginare prima dell'evento o dell'occorrenza del fenomeno datapoietico, ma anche durante, per descriverne la vita nel suo svolgimento.
+
+In un **evento con caratteristiche datapoietiche**, dispositivi, visualizzazioni e opportunità di interazione possono accompagnare i fruitori, che diventano performer consapevoli della Datapoiesis.
+Ma perché la Datapoiesis si verifichi, gli strumenti tecnici non bastano: occorre che venga innescato un coinvolgimento "magico", capace di agire nelle dimensioni del coinvolgimento sensuale.
+È per questo che viene predisposto un **Totem data-driven**, cioè un elemento iconico il cui scopo sia di trasportare i dati – e la computazione necessaria ad elaborarli e visualizzarli – nel dominio della sensibilità e della cultura, e di utilizzare il coinvolgimento sensatile per unire gli attori, portandoli verso un centro da cui sia possibile attivare una dimensione creativa collaborativa.
+
+Il Totem diventa il centro dell'evento, il rituale dell'attivazione, che permette e rende possibile la ripetibilità dell'azione e dei suoi effetti. Ma nulla può avvenire se l'ecosistema relazionale che si crea nell'evento datapoietico non viene curato, facilitandone l'espressione, il senso di ownership, l'esistenza dinamica e il potenziale.
+

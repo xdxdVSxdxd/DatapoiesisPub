@@ -1,0 +1,20 @@
+*Scriviamo questa premessa nel bel mezzo della pandemia globale che sta scuotendo l’intero pianeta, le vite dei singoli, delle famiglie, delle imprese e delle nostre istituzioni.*
+
+*Nulla sarà come prima, non torneremo alla normalità che conoscevamo. Il mondo prima e dopo il Covid-19 ci impone delle riflessioni e delle risposte ad un ambiente mutato, al centro del quale il nostro rapporto con i dati e la computazione si rivela in tutta la sua carica esistenziale, politica e culturale e, come ci dimostrano questi giorni, di sopravvivenza.*
+
+*Le vite di Datapoiesis e del virus si sono già incontrate: l’ultimo evento, fissato alla Farnesina il 28 Febbraio 2020,  è stato annullato in via precauzionale insieme a tutti gli eventi programmati in edifici pubblici, secondo direttiva n. 1/2020 del 25/2/2019 della Presidenza del Consiglio dei Ministri.*
+
+*Dall’incontro è nato un nuovo evento, Datapoiesis Corona Edition, e la seconda opera datapoietica, A Song for Corona: una musica generativa, accompagnata da una visualizzazione, con i dati dell’espansione del virus nel pianeta a partire dal primo giorno di contagio.*
+
+*Questa pubblicazione descrive la vita del progetto: come è nato e perché, come si è evoluto e come intendiamo sviluppare la futura impresa datapoietica.*
+
+*Per affrontare il futuro ci serve immaginazione. Mai come adesso è proprio la pandemia a gettare una luce nuova sul ruolo dell’arte e sul senso di un’organizzazione (culturale ed imprenditoriale) che sappia fare dei dati e della computazione non il terreno dell’estrazione del controllo (presenti e a venire) – ma lo spazio per concepire nuove forme di solidarietà, interazione, coesione, benessere sociale e psicologico.*
+
+*Nel mondo dopo il coronavirus dovremo inventarci nuove normalità, molte delle quali saranno basate sulla nostra relazione con dati, computazione, intelligenze artificiali. In questo mondo l’impresa datapoietica non è solo una ricchezza e un’opportunità, ma una necessità e una speranza di civiltà da costruire insieme.* 
+
+**ROMA, 27 marzo 2020**
+
+**Salvatore Iaconesi, Fiorenza Lipparini, Oriana Persico, Elena Zambolin, Alberto Zambolin**
+
+![Datapoiesis: il logo](images/premessa/Datapoieis_Logo.png "Datapoiesis: il logo")
+
