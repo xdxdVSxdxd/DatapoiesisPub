@@ -4,7 +4,7 @@ A file based CMS to create Datapoietic publications, with an example publication
 
 The live publication can be seen [HERE](https://he-r.it/datapoiesispub/) 
 
-Check the [WIKI](https://github.com/xdxdVSxdxd/DatapoiesisPub/wiki) to learn how to use the CMS.
+Check the [WIKI](https://github.com/xdxdVSxdxd/DatapoiesisPub/wiki) to learn how to use the CMS to create other **datapoietic publications**.
 
 
 ---
