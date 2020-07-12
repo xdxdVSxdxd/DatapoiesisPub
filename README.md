@@ -6,6 +6,16 @@ The live publication can be seen [HERE](https://he-r.it/datapoiesispub/)
 
 Check the [WIKI](https://github.com/xdxdVSxdxd/DatapoiesisPub/wiki) to learn how to use the CMS to create other **datapoietic publications**.
 
+---
+
+![cover](/screenshots/f1.png)
+_the cover_
+
+![content](/screenshots/f2.png)
+_a page of the generated content_
+
+![datapoietic mode](/screenshots/f3.png)
+_the datapoietic mode, in which the publication is used as data_
 
 ---
 
